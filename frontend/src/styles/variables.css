@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+:root {
+  /* Colors */
+  --main-color: #000;
+  --secondary-color: #868686;
+  --third-color: #ffffff;
+  --background-color: #F0F0F0;
+  --card-background: #ffffff;
+
+  /* Font sizes */
+  /* Font sizes (rem-based, base 16px) */
+  --text-size-mobile-main: 4rem; /* 64px */
+  --text-size-mobile-secondary: 1rem; /* 16px */
+  --text-size-mobile-option: 0.8125rem; /* 13px */
+  --text-size-tablet: 1.125rem; /* 18px */
+  --text-size-desktop: 1.25rem; /* 20px */
+
+  /* Fonts */
+  --main-font: 'Alata', sans-serif;
+
+  /* Spacing */
+
+  /* Border radius */
+  --border-radius: 8px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
